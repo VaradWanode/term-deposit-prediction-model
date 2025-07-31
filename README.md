@@ -65,5 +65,4 @@ Target variable: `y` – whether the client subscribed (`yes`/`no`)
 
 ---
 
-## 🗃️ Folder Structure
 
