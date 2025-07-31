@@ -4,13 +4,13 @@ A machine learning project to predict whether a customer will subscribe to a ter
 
 ---
 
-## 🔍 Problem Statement
+##  Problem Statement
 
 Financial institutions aim to optimize marketing strategies for term deposit offerings. This project uses customer and campaign data to build a predictive model that classifies whether a client will subscribe to a term deposit or not.
 
 ---
 
-## 📊 Dataset Overview
+##  Dataset Overview
 
 - **Source:** UCI Bank Marketing Dataset
 - **Records:** 41,188 customer entries
@@ -23,7 +23,7 @@ Target variable: `y` – whether the client subscribed (`yes`/`no`)
 
 ---
 
-## 🔧 Project Pipeline
+##  Project Pipeline
 
 1. **Data Cleaning and Preprocessing**
    - Handled missing values and categorical encoding
@@ -55,7 +55,7 @@ Target variable: `y` – whether the client subscribed (`yes`/`no`)
 
 ---
 
-## 🧪 Key Results
+##  Key Results
 
 | Model             | Accuracy | F1 Score | AUC Score | Recall |
 |------------------|----------|----------|-----------|--------|
